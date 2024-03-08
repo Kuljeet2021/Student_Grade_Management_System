@@ -1,1 +1,1 @@
-# Student_Grade_Management_System
+# Student_Grades_Management_System
